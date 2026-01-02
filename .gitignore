@@ -1,0 +1,6 @@
+.env
+runs/
+__pycache__/
+*.mp4
+*.wav
+.DS_Store
