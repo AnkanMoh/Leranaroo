@@ -35,7 +35,7 @@ st.markdown(
         <div style="font-size:38px;">🦘</div>
         <div style="font-size:32px; font-weight:800;">Learnaroo</div>
         <div style="opacity:0.75; font-size:16px;">
-            Kid-friendly lesson → short animated video
+            Kid-friendly lesson
         </div>
     </div>
     """,
